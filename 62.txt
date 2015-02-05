@@ -1,0 +1,6 @@
+62.(Cortesia do Prof. Bogdan Tomoyuki Nassu)
+Escreva uma funcao que recebe como parametros um vetor de inteiros positivos, 
+o numero de elementos dele, e ponteiros para argumentos de saida, nos quais 
+devem ser armazenados os valores maximo e minimo do vetor, assim como a media 
+dos valores.
+*****************************************************************************

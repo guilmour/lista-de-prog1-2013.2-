@@ -1,0 +1,25 @@
+75. A distancia entre varias cidades eh dada pela tabela abaixo (em km):
+    1  2  3  4  5
+    -  -  -  -  -
+1 | 00 15 30 05 12
+2 | 15 00 10 17 28
+3 | 30 10 00 03 11
+4 | 05 17 03 00 80
+5 | 12 28 11 80 00
+
+Implemente um programa que:
+
+a. peca uma tabela semelhante a acima para o usuario e armazene-a em um array 
+bidimensional. O programa nao deve perguntar distancias ja informadas (por 
+exemplo, se o usuario ja forneceu a distancia entre 1 e 3 nao eh necessario 
+informar a distancia entre 3 e 1, que eh a mesma) e tambem nao deve perguntar 
+
+A) distancia de uma cidade para ela mesma, que eh 0.
+
+B) leia um percurso fornecido pelo usuario em um array unidimensional.
+
+C) Calcule e mostre a distancia percorrida. Por exemplo: dado o percurso 
+1, 2, 3, 2, 5,1, 4, 
+para a tabela mostrada como exemplo teremos: 
+15 + 10 + 10 + 28 + 12 + 5 = 80 km.
+*******************************************************************************
